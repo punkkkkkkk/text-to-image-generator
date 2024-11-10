@@ -1,14 +1,22 @@
 # text-to-image
 
-### THERE'RE ARE 2 PROJECTS INIT 1ST IS FAST AND RELIABLE WHEREAS IN 2ND IT'S HOGHLY DETAILED ####
+## THERE'RE ARE 2 PROJECTS INIT 1ST IS FAST AND RELIABLE WHEREAS IN 2ND IT'S HIGHLY DETAILED ####
 
-                            WORKS IN GOOGLE COLAB ONLY 
+                                  WORKS IN GOOGLE COLAB ONLY 
 
-                 ### IF TRIED TO RUN LOCALLY IT'LL TAKE TOO LONG ###
+                     ### IF TRIED TO RUN LOCALLY IT'LL TAKE TOO LONG ###
 
 
                             
 This project shows how to generate images from text descriptions using the Stable Diffusion model. The implementation is designed to run in **Google Colab** for easy setup and execution.
+
+![Unknown-1](https://github.com/user-attachments/assets/05d726f3-d29f-4199-8e27-85773ef3e1e1)
+
+![Unknown-2](https://github.com/user-attachments/assets/240f53ab-f5a3-4afa-9319-76d9b454bd82)
+
+![Unknown-3](https://github.com/user-attachments/assets/6916d0cd-5820-4559-8023-f24e526fe786)
+
+![Unknown](https://github.com/user-attachments/assets/2f22ecf1-33bc-47e0-b470-bc9b6e07afce)
 
 ## Running the Code
 
@@ -55,9 +63,9 @@ Key Functionality: Rendering images and hiding axes for a cleaner display.
 
 
 
-==================================================================================================================================================================
+========================================================================================================================================================================
 
-### 1st PROJECT
+# 1st PROJECT
 
 
 ## Project Overview
@@ -75,9 +83,9 @@ This project uses Stable Diffusion, a powerful text-to-image generation model, t
 The process involves deep learning techniques that use pre-trained neural networks to transform textual information into visual content, relying heavily on GPU acceleration for efficient computation.
 
 
-==================================================================================================================================================================
+========================================================================================================================================================================
 
-### 2nd PROJECT
+# 2nd PROJECT
 
 ## Project Overview
 
