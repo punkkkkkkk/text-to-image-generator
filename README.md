@@ -11,11 +11,11 @@
 This project shows how to generate images from text descriptions using the Stable Diffusion model. The implementation is designed to run in **Google Colab** for easy setup and execution. The following images are genrated using 2nd Project
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/05d726f3-d29f-4199-8e27-85773ef3e1e1" alt="Top Left Image" width="300" style="margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/240f53ab-f5a3-4afa-9319-76d9b454bd82" alt="Top Right Image" width="300" style="margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/05d726f3-d29f-4199-8e27-85773ef3e1e1" alt="Top Left Image" width="400" style="margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/240f53ab-f5a3-4afa-9319-76d9b454bd82" alt="Top Right Image" width="400" style="margin: 10px;">
   <br>
-  <img src="https://github.com/user-attachments/assets/6916d0cd-5820-4559-8023-f24e526fe786" alt="Bottom Left Image" width="300" style="margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/2f22ecf1-33bc-47e0-b470-bc9b6e07afce" alt="Bottom Right Image" width="300" style="margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/6916d0cd-5820-4559-8023-f24e526fe786" alt="Bottom Left Image" width="400" style="margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/2f22ecf1-33bc-47e0-b470-bc9b6e07afce" alt="Bottom Right Image" width="400" style="margin: 10px;">
 </p>
 
 
