@@ -1,6 +1,6 @@
-# text-to-image
+# Text To Image Genrator
 
-## THERE'RE ARE 2 PROJECTS INIT 1ST IS FAST AND RELIABLE WHEREAS IN 2ND IT'S HIGHLY DETAILED ####
+### THERE'RE ARE 2 PROJECTS INIT 1ST IS FAST AND RELIABLE WHEREAS IN 2ND IT'S HIGHLY DETAILED ####
 
                                     WORKS IN GOOGLE COLAB ONLY 
 
@@ -124,15 +124,9 @@ The process is interactive, making it suitable for experimentation and creativit
 
 if program crashes while importing diffusers run this code on top and try to re run the colab notebook again 
 
-'''python
 
-#Reinstall protobuf and other necessary packages
 !pip uninstall -y protobuf
 !pip install protobuf
-
-#Reinstall TensorFlow (if relevant)
 !pip install --upgrade tensorflow
-
-#Clear protobuf cache (if needed)
 import shutil
-shutil.rmtree('/root/.cache/protobuf', ignore_errors=True) 
+shutil.rmtree('/root/.cache/protobuf', ignore_errors=True)
