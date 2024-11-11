@@ -118,3 +118,21 @@ The final image is then displayed directly in the Colab notebook using IPython.d
    
 The code includes a loop that allows users to input text prompts continuously to generate images. Users can type 'q' to quit the loop.
 The process is interactive, making it suitable for experimentation and creativity.
+
+
+# CRASH PROTECTION
+
+if program crashes while importing diffusers run this code on top and try to re run the colab notebook again 
+
+'''python
+
+#Reinstall protobuf and other necessary packages
+!pip uninstall -y protobuf
+!pip install protobuf
+
+#Reinstall TensorFlow (if relevant)
+!pip install --upgrade tensorflow
+
+#Clear protobuf cache (if needed)
+import shutil
+shutil.rmtree('/root/.cache/protobuf', ignore_errors=True) 
