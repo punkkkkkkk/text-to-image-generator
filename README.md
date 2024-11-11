@@ -22,9 +22,10 @@ This project shows how to generate images from text descriptions using the Stabl
 
 ## Running the Code
 
-- Open a new Google Colab notebook.
-- Copy and paste the code snippets above into the notebook cells.
-- Execute each cell sequentially to set up the environment and generate images.
+
+- Open Google Colab.
+- Click on "Upload" in the "Welcome to Colaboratory" panel or go to File > upload notebook.
+- Upload the .ipynb notebook file.
 
 ## Notes
 
