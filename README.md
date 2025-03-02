@@ -68,7 +68,7 @@ Key Functionality: Rendering images and hiding axes for a cleaner display.
 
 
 
-========================================================================================================================================================================
+
 
 # 1st PROJECT
 
@@ -88,7 +88,7 @@ This project uses Stable Diffusion, a powerful text-to-image generation model, t
 The process involves deep learning techniques that use pre-trained neural networks to transform textual information into visual content, relying heavily on GPU acceleration for efficient computation.
 
 
-========================================================================================================================================================================
+
 
 # 2nd PROJECT
 
