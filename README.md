@@ -1,6 +1,8 @@
 # Text To Image Genrator
 
-### THERE'RE ARE 2 PROJECTS INIT 1ST IS FAST AND RELIABLE WHEREAS IN 2ND IT'S HIGHLY DETAILED ####
+This project shows how to generate images from text descriptions using the Stable Diffusion model. The implementation is designed to run in **Google Colab** for easy setup and execution. The following images are genrated using 2nd Project
+
+
 
                                     WORKS IN GOOGLE COLAB ONLY 
 
@@ -8,7 +10,7 @@
 
 
                             
-This project shows how to generate images from text descriptions using the Stable Diffusion model. The implementation is designed to run in **Google Colab** for easy setup and execution. The following images are genrated using 2nd Project
+### THERE'RE ARE 2 PROJECTS INIT 1ST IS FAST AND RELIABLE WHEREAS IN 2ND IT'S HIGHLY DETAILED ####
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/05d726f3-d29f-4199-8e27-85773ef3e1e1" alt="Top Left Image" width="400" style="margin: 10px;">
